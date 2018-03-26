@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+prompt("And now a word from our sponsors");
+console.log
+// your JavaScript goes here!
+</script>
+</body>
+</html>
